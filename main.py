@@ -36,7 +36,7 @@ def set_reminders(chat_id):
     st1_rem = "09:00"
     nd2_rem = "11:00"
     rd3_rem = "15:00"
-    th4_rem = "20:12"
+    th4_rem = "17:00"
     while True:
         now = datetime.datetime.now().strftime("%H:%M")
         if now == st1_rem or now == nd2_rem or now == rd3_rem or now == th4_rem:
