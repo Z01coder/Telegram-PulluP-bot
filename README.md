@@ -19,7 +19,7 @@
 
 1. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/your-username/pullup-pal.git
+   git clone https://github.com/Z01coder/Telegram-PulluP-bot
    cd pullup-pal
 2. Установи зависимости: 
    ```bash
